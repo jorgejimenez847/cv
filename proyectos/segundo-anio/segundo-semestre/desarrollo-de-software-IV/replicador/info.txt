@@ -1,0 +1,1 @@
+Herramienta web sencilla para replicar o sincronizar datos entre bases de datos. Implementa funciones en PHP para ejecutar acciones de copia y actualización, apoyándose en configuraciones definidas en archivos de conexión y estilos básicos en CSS.

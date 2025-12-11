@@ -1,0 +1,221 @@
+{
+  "groups": [
+    {
+      "id": "1_1",
+      "title": "Primer año – Primer semestre",
+      "description": "Trabajos de la materia Desarrollo de Software I, con ejercicios y parciales de programación básica.",
+      "folder": "proyectos/primero-anio/primer-semestre",
+      "projects": [
+        {
+          "name": "Desarrollo de Software I – ejercicios y parciales",
+          "folderName": "desarrollo-de-software-I",
+          "semester": "Primer año – Primer semestre",
+          "tech": [
+            "Algoritmos",
+            "Lógica de programación"
+          ],
+          "status": "Completado",
+          "openFile": "Parcial #2.pdf",
+          "download": "archivos.zip"
+        }
+      ]
+    },
+    {
+      "id": "1_2",
+      "title": "Primer año – Segundo semestre",
+      "description": "Laboratorios y parciales de Estructura de Datos I.",
+      "folder": "proyectos/primero-anio/segundo-semestre",
+      "projects": [
+        {
+          "name": "Estructura de Datos I – laboratorios y parciales",
+          "folderName": "estructura-de-datos-I",
+          "semester": "Primer año – Segundo semestre",
+          "tech": [
+            "Arreglos",
+            "Listas",
+            "Pilas y colas"
+          ],
+          "status": "Completado",
+          "openFile": "Estructura de Datos - Parcial #3.pdf",
+          "download": "archivos.zip"
+        }
+      ]
+    },
+    {
+      "id": "2_1",
+      "title": "Segundo año – Primer semestre",
+      "description": "Evaluaciones de Desarrollo de Software III y laboratorios de Estructura de Datos II.",
+      "folder": "proyectos/segundo-anio/primer-semestre",
+      "projects": [
+        {
+          "name": "Desarrollo de Software III – exámenes y ejercicios",
+          "folderName": "desarrollo-de-software-III",
+          "semester": "Segundo año – Primer semestre",
+          "tech": [
+            "Análisis de requerimientos",
+            "Diseño de software"
+          ],
+          "status": "Completado",
+          "openFile": "Desarrollo de Software III - Examen Final.pdf",
+          "download": "archivos.zip"
+        },
+        {
+          "name": "Estructura de Datos II – laboratorios y parciales",
+          "folderName": "estructura-de-datos-II",
+          "semester": "Segundo año – Primer semestre",
+          "tech": [
+            "Árboles",
+            "Grafos",
+            "Estructuras dinámicas"
+          ],
+          "status": "Completado",
+          "openFile": "Estructura de Datos II - Parcial 3.pdf",
+          "download": "archivos.zip"
+        }
+      ]
+    },
+    {
+      "id": "2_2",
+      "title": "Segundo año – Segundo semestre",
+      "description": "Proyectos web desarrollados en la materia Desarrollo de Software IV.",
+      "folder": "proyectos/segundo-anio/segundo-semestre/desarrollo-de-software-IV",
+      "projects": [
+        {
+          "name": "Sitio web CEL (Centro de Lenguas)",
+          "folderName": "CEL_website",
+          "semester": "Segundo año – Segundo semestre",
+          "tech": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "status": "Completado",
+          "openFile": "index.html",
+          "download": "CEL_website.zip"
+        },
+        {
+          "name": "Sistema web Chino's Café",
+          "folderName": "chinoscafe",
+          "semester": "Segundo año – Segundo semestre",
+          "tech": [
+            "PHP",
+            "MySQL",
+            "HTML",
+            "CSS"
+          ],
+          "status": "Completado",
+          "openFile": "index.php",
+          "download": "chinoscafe.zip"
+        },
+        {
+          "name": "Sistema web Chino's Café (copia)",
+          "folderName": "chinoscafe copy",
+          "semester": "Segundo año – Segundo semestre",
+          "tech": [
+            "PHP",
+            "MySQL",
+            "HTML",
+            "CSS"
+          ],
+          "status": "Completado",
+          "download": "chinoscafe copy.zip"
+        },
+        {
+          "name": "Portal de diplomados",
+          "folderName": "DiplomadosWeb",
+          "semester": "Segundo año – Segundo semestre",
+          "tech": [
+            "HTML",
+            "CSS"
+          ],
+          "status": "Completado",
+          "openFile": "index.html",
+          "download": "DiplomadosWeb.zip"
+        },
+        {
+          "name": "Sitio web de municipio",
+          "folderName": "municipio-web",
+          "semester": "Segundo año – Segundo semestre",
+          "tech": [
+            "HTML",
+            "CSS"
+          ],
+          "status": "Completado",
+          "openFile": "index.html",
+          "download": "municipio-web.zip"
+        },
+        {
+          "name": "Sitio web de municipio (versión alternativa)",
+          "folderName": "municipio-web-OTRO",
+          "semester": "Segundo año – Segundo semestre",
+          "tech": [
+            "HTML",
+            "CSS"
+          ],
+          "status": "Completado",
+          "download": "municipio-web-OTRO.zip"
+        },
+        {
+          "name": "Sistema de gestión Nibarra",
+          "folderName": "proyecto_nibarra",
+          "semester": "Segundo año – Segundo semestre",
+          "tech": [
+            "PHP",
+            "MySQL",
+            "JavaScript"
+          ],
+          "status": "Completado",
+          "openFile": "index.php",
+          "download": "proyecto_nibarra.zip"
+        },
+        {
+          "name": "Herramienta de replicación de datos",
+          "folderName": "replicador",
+          "semester": "Segundo año – Segundo semestre",
+          "tech": [
+            "PHP",
+            "MySQL"
+          ],
+          "status": "Completado",
+          "openFile": "index.php",
+          "download": "replicador.zip"
+        },
+        {
+          "name": "Sucesos y Más – Sistema de gestión y facturación",
+          "folderName": "sucesosymas",
+          "semester": "Segundo año – Segundo semestre",
+          "tech": [
+            "PHP",
+            "MySQL",
+            "FPDF",
+            "HTML",
+            "CSS"
+          ],
+          "status": "Completado",
+          "openFile": "index.php",
+          "download": "sucesosymas.zip"
+        }
+      ]
+    },
+    {
+      "id": "otros",
+      "title": "Proyectos personales",
+      "description": "Proyectos personales realizados por curiosidad o práctica.",
+      "folder": "proyectos/otros",
+      "projects": [
+        {
+          "name": "Neon Dodge – Mini juego 2D",
+          "folderName": "neon-dodge",
+          "semester": "Personal",
+          "tech": [
+            "HTML5 Canvas",
+            "JavaScript",
+            "CSS"
+          ],
+          "status": "En desarrollo",
+          "openFile": "index.html"
+        }
+      ]
+    }
+  ]
+}

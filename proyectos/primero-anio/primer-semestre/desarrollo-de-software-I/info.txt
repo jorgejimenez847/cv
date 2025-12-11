@@ -1,0 +1,1 @@
+Ejercicios y parciales de la materia Desarrollo de Software I, trabajando principalmente funciones, vectores y lógica de programación básica. Los documentos incluyen problemas resueltos y evaluaciones que refuerzan los fundamentos de programación.

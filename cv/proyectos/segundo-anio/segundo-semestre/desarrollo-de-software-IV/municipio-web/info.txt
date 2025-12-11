@@ -1,0 +1,1 @@
+Sitio web informativo para un municipio. Incluye secciones de historia, departamentos, servicios, clientes y contacto, acompañadas de imágenes ilustrativas. El objetivo es mostrar información institucional de forma clara usando HTML y CSS.

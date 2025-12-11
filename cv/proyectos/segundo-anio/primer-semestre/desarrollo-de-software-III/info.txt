@@ -1,0 +1,1 @@
+Evaluaciones teóricas y prácticas de Desarrollo de Software III. Incluye ejercicios y exámenes donde se analizan requerimientos, se diseñan soluciones de software y se aplican buenas prácticas en el desarrollo y documentación de sistemas.

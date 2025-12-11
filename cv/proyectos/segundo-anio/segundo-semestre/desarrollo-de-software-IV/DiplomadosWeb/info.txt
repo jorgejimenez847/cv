@@ -1,0 +1,1 @@
+Portal web para la presentación de diplomados y cursos. Ofrece páginas informativas, acceso a materiales en PDF y una estructura sencilla de navegación. Desarrollado con HTML y CSS, pensado como sitio de consulta académica.

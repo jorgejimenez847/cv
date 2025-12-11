@@ -1,0 +1,1 @@
+Aplicación web para la administración de un café. Permite gestionar productos, ventas, facturas e inicio de sesión de usuarios. Está desarrollada en PHP con conexión a base de datos MySQL e incluye pantallas para registro, listado y control de inventario (version local)

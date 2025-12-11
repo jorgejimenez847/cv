@@ -4,7 +4,7 @@
   --bg-alt-2: #edf2ff;
   --text: #111827;
   --muted: #6b7280;
-  --primary: #1e3a8a;
+  --primary: #09132e;
   --primary-soft: #e0ecff;
   --accent: #4f46e5;
   --border-soft: #e5e7eb;
@@ -568,5 +568,6 @@ body {
     padding-inline: 0.9rem;
   }
 }
+
 
 

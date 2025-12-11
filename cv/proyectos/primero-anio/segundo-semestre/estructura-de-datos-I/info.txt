@@ -1,1 +1,0 @@
-Conjunto de laboratorios y parciales de la materia Estructura de Datos I. Se practican estructuras lineales como arreglos, listas, pilas y colas mediante ejercicios guiados y evaluaciones, reforzando el análisis y manejo de datos en memoria.

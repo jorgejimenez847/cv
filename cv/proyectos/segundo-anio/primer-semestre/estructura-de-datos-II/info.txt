@@ -1,1 +1,0 @@
-Laboratorios y parciales de la materia Estructura de Datos II, enfocados en estructuras avanzadas como árboles, grafos y listas enlazadas. Los ejercicios refuerzan el uso de estructuras dinámicas y el análisis de eficiencia de las operaciones.

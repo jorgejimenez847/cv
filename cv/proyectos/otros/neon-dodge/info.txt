@@ -1,1 +1,0 @@
-Mini juego 2D tipo “dodge” desarrollado en HTML5 Canvas y JavaScript. El jugador debe esquivar objetos en pantalla dentro de una estética de neón, sirviendo como práctica de animación, detección de colisiones y lógica de juego simple en el navegador.

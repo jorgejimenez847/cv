@@ -1,1 +1,0 @@
-Sitio web estático para un centro de enseñanza de idiomas (CEL). Incluye páginas de inicio, cursos, horarios, servicios, misión/visión y contactos, maquetadas con HTML y CSS, además de pequeños scripts para mejorar la experiencia de navegación.

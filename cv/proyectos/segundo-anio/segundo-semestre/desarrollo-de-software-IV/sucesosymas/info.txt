@@ -1,1 +1,0 @@
-Sistema de gestión y facturación “Sucesos y Más”. Incluye módulos para clientes, materiales, cotizaciones, servicios de courier y generación de facturas en PDF. Desarrollado en PHP con base de datos MySQL, uso de la librería FPDF y una interfaz web con HTML, CSS y JavaScript.

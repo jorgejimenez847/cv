@@ -1,1 +1,0 @@
-Sistema web de gestión para Nibarra. Permite iniciar sesión, administrar equipos, registrar mantenimientos y visualizar información en vistas organizadas. Está desarrollado en PHP con base de datos MySQL e incluye scripts de apoyo en JavaScript y estilos personalizados.
